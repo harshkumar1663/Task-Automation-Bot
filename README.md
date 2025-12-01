@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Automation Bot
 
 **Author:** Harsh Kumar  
@@ -56,3 +57,6 @@ task-automation-bot/
 ├─ task_automation_bot.py   # Main orchestration script
 ├─ requirements.txt
 └─ README.md
+=======
+# Task-Automation-Bot
+>>>>>>> 5f16873fe70bed5362eb6418afc73654b1cb41a7
