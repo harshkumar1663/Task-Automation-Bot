@@ -1,0 +1,8 @@
+[2025-12-01 22:15:09] [INFO] __main__ - Starting Task Automation Bot
+[2025-12-01 22:15:09] [INFO] __main__ - Downloaded 0 files.
+[2025-12-01 22:15:09] [INFO] __main__ - Renamed 0 files.
+[2025-12-01 22:15:09] [INFO] __main__ - Sorted 0 files.
+[2025-12-01 22:15:09] [INFO] automation_bot.report_generator - Generating report: G:\Portfolio\Task-Automation-Bot\reports\file_report_20251201_164509.csv
+[2025-12-01 22:15:09] [INFO] automation_bot.report_generator - Report generated: G:\Portfolio\Task-Automation-Bot\reports\file_report_20251201_164509.csv
+[2025-12-01 22:15:09] [INFO] automation_bot.notifier - Email notifications are disabled. Skipping send.
+[2025-12-01 22:15:09] [INFO] __main__ - Task Automation Bot completed successfully.

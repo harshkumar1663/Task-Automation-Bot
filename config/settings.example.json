@@ -1,0 +1,25 @@
+{
+  "download_urls": [
+    "https://example.com/sample.pdf",
+    "https://example.com/sample.csv"
+  ],
+  "download_dir": "downloads",
+  "working_dir": "downloads",
+  "reports_dir": "reports",
+  "logs_dir": "logs",
+  "rename_prefix": "2025_",
+  "rename_suffix": "_processed",
+  "sort_by_extension": true,
+  "email": {
+    "enabled": false,
+    "smtp_server": "smtp.example.com",
+    "smtp_port": 587,
+    "use_tls": true,
+    "username": "your_smtp_username",
+    "password": "your_smtp_password",
+    "from_address": "bot@example.com",
+    "to_addresses": [
+      "recipient@example.com"
+    ]
+  }
+}
